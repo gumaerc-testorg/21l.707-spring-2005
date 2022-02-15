@@ -2,8 +2,12 @@
 content_type: resource
 description: Handout containing a list of locations relevant to King Arthur and challengers
   to Arthur's sovereignty.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/df8e8f19a0fb258cdbbae86171e01a0f_17_per_diss_brit.pdf
+file: /media/courses/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/df8e8f19a0fb258cdbbae86171e01a0f_17_per_diss_brit.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Perceval and the Dissolution of Britain
 uid: df8e8f19-a0fb-258c-dbba-e86171e01a0f

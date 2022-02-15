@@ -2,12 +2,14 @@
 content_type: resource
 description: The Christian Heroes Tapestry, c. 1385. (Image courtesy of the Arthurian
   Literature & Art Web site.)
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/ab32e38dfdcd96bc6b4b3ee5893fc910_chp_court.jpg
+file: /media/courses/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/ab32e38dfdcd96bc6b4b3ee5893fc910_chp_court.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Christian Heroes Tapestry
 uid: ab32e38d-fdcd-96bc-6b4b-3ee5893fc910
