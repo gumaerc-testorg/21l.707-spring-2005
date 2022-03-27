@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ea71e083-4c7e-f165-b660-3e1f93cd4565
 resourcetype: Document
 title: English, Scottish, and Irish Kings of the High Middle Ages
 uid: abaf9e81-4ca7-6dec-7c48-79a76ae915d0

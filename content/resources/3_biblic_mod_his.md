@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ea71e083-4c7e-f165-b660-3e1f93cd4565
 resourcetype: Document
 title: Biblical Model of History
 uid: d903715b-615c-6b1a-8740-1d7190550e0d

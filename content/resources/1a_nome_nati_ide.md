@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ea71e083-4c7e-f165-b660-3e1f93cd4565
 resourcetype: Document
 title: Nomenclature and National Identity
 uid: d0453eb6-a4bb-d812-ae87-b2548a7e028a

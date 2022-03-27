@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ea71e083-4c7e-f165-b660-3e1f93cd4565
 resourcetype: Document
 title: 'Presentation Topics '
 uid: df94eb10-be7b-2484-c011-6bc5bcb7cf67
