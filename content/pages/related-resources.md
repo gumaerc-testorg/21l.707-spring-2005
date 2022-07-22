@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to external websites.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: a50f9859-6c2e-6ab8-f6a3-673a861e139f
 ---
@@ -37,7 +40,7 @@ On-Line Resources
 
 [Christian Classics Ethereal Library](http://www.ccel.org/)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Ecole Initiative (PDF)](http://www.standardbearers.net/uploads/The_Ecole_Initiative.pdf)
+[The Ecole Initiative (PDF)](http://www.standardbearers.net/uploads/The_Ecole_Initiative.pdf)
 
 [Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 

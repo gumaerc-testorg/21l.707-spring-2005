@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides an example assignment for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 616857f7-7392-db3f-4f84-2cef1487fc37
 ---
