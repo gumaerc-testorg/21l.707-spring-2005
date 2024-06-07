@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines and instructions on writing papers for the course.
 file: /courses/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/f7934200aecfecd2d746ad920105fe1d_so_poi_wri_pa_lit.pdf
+file_size: 88347
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
