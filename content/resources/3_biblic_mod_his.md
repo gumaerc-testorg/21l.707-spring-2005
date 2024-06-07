@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout containing a chronology of biblical history.
 file: /courses/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/d903715b615c6b1a87401d7190550e0d_3_biblic_mod_his.pdf
+file_size: 86855
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
