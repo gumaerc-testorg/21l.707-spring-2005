@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This section provides a timeline of early Britain.
-file: /courses/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/7133bcafa8ae4506e9fe0f66043c926a_his_time_mat_bri.pdf
+file: /ol-ocw-studio-app/courses/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/7133bcafa8ae4506e9fe0f66043c926a_his_time_mat_bri.pdf
 file_size: 93304
 file_type: application/pdf
 learning_resource_types: []
