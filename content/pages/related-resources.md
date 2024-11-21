@@ -1,14 +1,13 @@
 ---
 content_type: page
 description: This section provides links to external websites.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: a50f9859-6c2e-6ab8-f6a3-673a861e139f
 ---
-
-On-Line Resources
------------------
+## On-Line Resources
 
 ### Classical Literature
 
@@ -56,7 +55,7 @@ On-Line Resources
 
 [Columbia Electronic Text Service](http://www.columbia.edu/cu/lweb/indiv/ets/offsite.subject.html#medieval)
 
-[NetSerf](http://www.netserf.org/)
+[NetSerf](https://www.netsurf-browser.org/)
 
 [Grover Furr's Medieval Literature and History Page](http://www.chss.montclair.edu/english/furr/medieval.html)
 
@@ -78,40 +77,29 @@ On-Line Resources
 
 Geoffrey Chaucer
 
-*   [The Geoffrey Chaucer Web site Homepage](http://www.courses.fas.harvard.edu/~chaucer/)
-    
-*   [Geoffrey Chaucer. Org](http://geoffreychaucer.org/)
-    
-*   [The Electronic Canterbury Tales Project](http://hosting.uaa.alaska.edu/afdtk/ECT_Main.htm)
-    
+- [The Geoffrey Chaucer Web site Homepage](https://www.britannica.com/biography/Geoffrey-Chaucer)
+- [Geoffrey Chaucer. Org](http://geoffreychaucer.org/)
+- [The Electronic Canterbury Tales Project](http://hosting.uaa.alaska.edu/afdtk/ECT_Main.htm)
 
 William Langland
 
-*   [The Piers Plowman Electronic Archive](http://jefferson.village.virginia.edu/piers/tcontents.html)
-    
-*   [The William Langland Homepage](http://web.archive.org/web/20011216230127/www.english.upenn.edu/~lwarner/piers.html/)
-    
+- [The Piers Plowman Electronic Archive](https://piers.chass.ncsu.edu/)
+- [The William Langland Homepage](http://web.archive.org/web/20011216230127/www.english.upenn.edu/~lwarner/piers.html/)
 
 Robin Hood Ballads
 
-*   [The Robin Hood Project](http://www.lib.rochester.edu/camelot/rh/rhhome.stm)
-    
+- [The Robin Hood Project](http://www.lib.rochester.edu/camelot/rh/rhhome.stm)
 
 Dante Alighieri
 
-*   [Digital Dante Project](http://dante.ilt.columbia.edu/)
-    
-*   [Dante Online](http://www.danteonline.it/italiano/home_ita.asp)
-    
-*   [Dante Studies](http://www.lieberknecht.de/dante/welc_fr.html)
-    
-*   [Dante Alighieri on the Web](http://www.greatdante.net/)
-    
+- [Digital Dante Project](http://dante.ilt.columbia.edu/)
+- [Dante Online](http://www.danteonline.it/italiano/home_ita.asp)
+- [Dante Studies](http://www.lieberknecht.de/dante/welc_fr.html)
+- [Dante Alighieri on the Web](http://www.greatdante.net/)
 
 Giovanni Boccaccio
 
-*   [Decameron Web](http://www.brown.edu/Research/Decameron/)
-    
+- [Decameron Web](http://www.brown.edu/Research/Decameron/)
 
 ### Arthurian Literature and the Matter of Britain
 
@@ -129,16 +117,14 @@ Giovanni Boccaccio
 
 [Legends](http://www.legends.net/)
 
-Weston, Jessie. _From Ritual to Romance_
+Weston, Jessie. *From Ritual to Romance*
 
 [CELT: On-Line Resources for Irish History](http://www.ucc.ie/celt/)
 
 Chrétien de Troyes
 
-*   [The Charette Project](http://www.princeton.edu/~lancelot/)
-    
-*   [Chrétien de Troyes: Le Conte du Graal](http://www.lettres.ac-versailles.fr/)
-    
+- [The Charette Project](http://www.princeton.edu/~lancelot/)
+- [Chrétien de Troyes: Le Conte du Graal](http://www.lettres.ac-versailles.fr/)
 
 ### Medieval English
 
