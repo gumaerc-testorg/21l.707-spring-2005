@@ -2,7 +2,7 @@
 content_type: resource
 description: Excerpts from Paul's 'Epistle to the Romans', 'Gospel of Luke', and 'The
   History of the Church' by Eusebius.
-file: /ol-ocw-studio-app/courses/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/72560db9715d1878a0430f62a52bcf58_5_chris_mod_hist.pdf
+file: /courses/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/72560db9715d1878a0430f62a52bcf58_5_chris_mod_hist.pdf
 file_size: 78579
 file_type: application/pdf
 learning_resource_types: []
