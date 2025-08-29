@@ -21,7 +21,7 @@ uid: a50f9859-6c2e-6ab8-f6a3-673a861e139f
 
 [Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
-[Electronic Text Center, University of Virginia](http://etext.lib.virginia.edu/latin.html)
+[Electronic Text Center, University of Virginia](https://archives.lib.virginia.edu/repositories/uva-sc/resources/university_of_virginia_electronic_text_center_reco)
 
 [Forum Romanum](http://www.forumromanum.org/)
 
@@ -43,7 +43,7 @@ uid: a50f9859-6c2e-6ab8-f6a3-673a861e139f
 
 [Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
-[Electronic Text Center, University of Virginia](http://etext.lib.virginia.edu/latin.html)
+[Electronic Text Center, University of Virginia](https://archives.lib.virginia.edu/repositories/uva-sc/resources/university_of_virginia_electronic_text_center_reco)
 
 ### Medieval Resources - General
 
@@ -154,7 +154,7 @@ Chrétien de Troyes
 
 [Project Libellus](http://www.hhhh.org/perseant/libellus/)
 
-[Electronic Text Center, University of Virginia](http://etext.lib.virginia.edu/latin.html)
+[Electronic Text Center, University of Virginia](https://archives.lib.virginia.edu/repositories/uva-sc/resources/university_of_virginia_electronic_text_center_reco)
 
 [Forum Romanum: Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
 
