@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout on the nomenclature and national identity of the British Isles.
-file: /courses/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/d0453eb6a4bbd812ae87b2548a7e028a_1a_nome_nati_ide.pdf
+file: /ol-ocw-studio-app/courses/21l-707-arthurian-literature-and-celtic-colonization-spring-2005/d0453eb6a4bbd812ae87b2548a7e028a_1a_nome_nati_ide.pdf
 file_size: 73766
 file_type: application/pdf
 learning_resource_types: []
