@@ -35,7 +35,7 @@ Lacy, Norris J., ed. _The Lancelot-Grail Reader_. New York, NY: Garland, 2000. I
 Texts On-Line
 -------------
 
-Evans, Sebastian, tr. [_Perlesvaux (The High History of the Holy Graal)_](https://archive.org/details/highhistoryofhol00perliala/page/4). 1898.
+Evans, Sebastian, tr. {{% resource_link "10031dcc-f29d-4642-b695-f850eb905908" "_Perlesvaux (The High History of the Holy Graal)_" %}}. 1898.
 
 Texts in Course Reader
 ----------------------
